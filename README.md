@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahre Hailemariam</h1>
-<h3 align="center">A passionate Data Analyst and BI Developer from Ethiopia</h3>
+<h3 align="center">Welcome to my GitHub! I'm a data analyst with a passion for transforming
+   raw data into meaningful insights that drive decision-making. I specialize in data cleaning, analysis, visualization, and automation using tools like **SQL, Python,Power BI, and Excel**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahrehailemariam&label=Profile%20views&color=0e75b6&style=flat" alt="bahrehailemariam" /> </p>
 
