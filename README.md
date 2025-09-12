@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python, Excel, SQL, Power BI, Visualization, Analysis, Reporting and Findings**
 
-- 📫 How to reach me **wedidngur@gmail.com**
+- 📫 How to reach me **bahre.hail@gmail.com**
 
 - 📄 Know about my experiences [https://bahre-hailemariam-data-analyst.crd.co/](https://bahre-hailemariam-data-analyst.crd.co/)
 
