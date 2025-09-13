@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Bahre Hailemariam</h1>
-<h3 align="center">Welcome to my GitHub! I'm a data analyst with a passion for transforming
-   raw data into meaningful insights that drive decision-making. I specialize in data cleaning, analysis, visualization, and automation using tools like **SQL, Python,Power BI, and Excel**.</h3>
+<h3 align="center">Welcome to my GitHub! I'm a data analyst with a passion for transforming raw data into meaningful insights that drive decision-making. I specialize in data cleaning, analysis, visualization, and automation using tools like **SQL, Python,Power BI, and Excel**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahrehailemariam&label=Profile%20views&color=0e75b6&style=flat" alt="bahrehailemariam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahrehailemariam" alt="bahrehailemariam" /></a> </p>
 
-- 🔭 I’m currently working on [Seasonal Sales Trends Analysis using Power BI |SQL server](https://carrd.co/dashboard/9475174068904889/build)
+- 🔭 I’m currently working on [Predictive Analysis of US Regional Sales Data using SQL server, Power BI,ML and AI](https://github.com/BahreHailemariam/Sales_Data_Analysis_using-_Power_BI)
 
-- 🌱 I’m currently learning **AI,ML,Data Science, DAX and Power BI details**
+- 🌱 I’m currently learning **Data Engineering, AI, ML and NLP**
 
-- 👯 I’m looking to collaborate on [Employee Performance & Productivity Analysis Using Power BI and Excel](https://carrd.co/dashboard/9475174068904889/build)
+- 👯 I’m looking to collaborate on [Predictive Analysis of US Regional Sales Data using SQL server, Power BI,ML and AI](https://github.com/BahreHailemariam/Sales_Data_Analysis_using-_Power_BI)
 
-- 🤝 I’m looking for help with [Emergency Room Patient Flow & Wait Time Optimization by Utilizing Power BI | Excel](https://carrd.co/dashboard/9475174068904889/build)
+- 🤝 I’m looking for help with [Predictive Analysis of US Regional Sales Data using SQL server, Power BI,ML and AI](https://github.com/BahreHailemariam/Sales_Data_Analysis_using-_Power_BI)
 
-- 👨‍💻 All of my projects are available at [https://bahre-hailemariam-data-analyst.crd.co/](https://bahre-hailemariam-data-analyst.crd.co/)
+- 👨‍💻 All of my projects are available at [https://github.com/BahreHailemariam?tab=repositories](https://github.com/BahreHailemariam?tab=repositories)
 
-- 📝 I regularly write articles on [https://bahre-hailemariam-data-analyst.crd.co/](https://bahre-hailemariam-data-analyst.crd.co/)
+- 📝 I regularly write articles on [https://bahrehailemariam.github.io/BahreHailemariamK/](https://bahrehailemariam.github.io/BahreHailemariamK/)
 
-- 💬 Ask me about **Python, Excel, SQL, Power BI, Visualization, Analysis, Reporting and Findings**
+- 💬 Ask me about **Python, Excel, SQL, Power BI,Tableau, Visualization, Analysis, Reporting and Findings**
 
-- 📫 How to reach me **wedidngur@gmail.com**
+- 📫 How to reach me **bahre.hail@gmail.com**
 
 - 📄 Know about my experiences [https://bahre-hailemariam-data-analyst.crd.co/](https://bahre-hailemariam-data-analyst.crd.co/)
 
